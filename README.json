@@ -1,0 +1,348 @@
+{
+  "items": [
+    {
+      "description": "GitOps is a way to do Kubernetes cluster management and application delivery. It works by using Git as a single source of truth for declarative infrastructure and applications, together with tools ensuring the actual state of infrastructure and applications converges towards the desired state declared in Git. With Git at the center of your delivery pipelines, developers can make pull requests to accelerate and simplify application deployments and operations tasks to your infrastructure or container-orchestration system (e.g. Kubernetes).",
+      "items": [],
+      "title": "What is GitOps?"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ArgoCD",
+          "description": "Declarative continuous deployment for Kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T10:21:21Z",
+            "owner": "argoproj",
+            "repo": "argo-cd",
+            "stars": 23914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flux",
+          "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T02:21:32Z",
+            "owner": "fluxcd",
+            "repo": "flux2",
+            "stars": 8328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flagger",
+          "description": "Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:00:22Z",
+            "owner": "fluxcd",
+            "repo": "flagger",
+            "stars": 5387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ignite",
+          "description": "A Virtual Machine manager with a container UX and built-in GitOps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-12-07T17:28:58Z",
+            "owner": "weaveworks",
+            "repo": "ignite",
+            "stars": 3530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubefirst",
+          "description": "Fully-automated OSS delivery & infrastructure management gitops platforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-25T19:51:46Z",
+            "owner": "konstructio",
+            "repo": "kubefirst",
+            "stars": 2055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sceptre",
+          "description": "Sceptre is a tool to drive AWS CloudFormation as part of a CI/CD pipeline by using Hooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T16:35:55Z",
+            "owner": "Sceptre",
+            "repo": "sceptre",
+            "stars": 1533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weave GitOps OSS",
+          "description": "Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-12T23:29:45Z",
+            "owner": "weaveworks",
+            "repo": "weave-gitops",
+            "stars": 1126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helm Operator",
+          "description": "Automates Helm Chart releases in a GitOps manner",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-11-01T15:19:40Z",
+            "owner": "fluxcd",
+            "repo": "helm-operator",
+            "stars": 641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox-GitOps",
+          "description": "Self-contained GitOps framework for LXC-based container automation on Proxmox VE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-18T10:41:41Z",
+            "owner": "stevius10",
+            "repo": "Proxmox-GitOps",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gimlet",
+          "description": "The Flux-based Internal Developer Platform",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-01-22T06:47:09Z",
+            "owner": "gimlet-io",
+            "repo": "gimlet",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoapply",
+          "description": "Automatically apply changes from a Git repository to a Kubernetes cluster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-14T14:56:48Z",
+            "owner": "autoapply",
+            "repo": "autoapply",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faros",
+          "description": "CRD based GitOps controller",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-09-27T23:46:42Z",
+            "owner": "pusher",
+            "repo": "faros",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grant.rs",
+          "description": "Manage Redshift/Postgres privileges in GitOps style",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T03:14:41Z",
+            "owner": "duyet",
+            "repo": "grant-rs",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "argocd-backup-s3",
+          "description": "Kubernetes CronJob to backup ArgoCD with cmd and upload to S3 compatible storage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-14T19:48:25Z",
+            "owner": "oguzhan-yilmaz",
+            "repo": "argocd-backup-s3",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ancillary Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SOPS",
+          "description": "Secrets OPerationS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:27:27Z",
+            "owner": "getsops",
+            "repo": "sops",
+            "stars": 22791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sealed Secrets",
+          "description": "One-way encrypted Secrets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T08:13:49Z",
+            "owner": "bitnami",
+            "repo": "sealed-secrets",
+            "stars": 9239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-secret",
+          "description": "A bash-tool to store your private data inside a git repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:12:25Z",
+            "owner": "sobolevn",
+            "repo": "git-secret",
+            "stars": 4035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kamus",
+          "description": "Zero-trust secret encryption/decryption solution for Kubernetes applications",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-03-25T17:43:22Z",
+            "owner": "Soluto",
+            "repo": "kamus",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vault Secrets Operator",
+          "description": "Sync secrets from Vault with Kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:43:55Z",
+            "owner": "ricoberger",
+            "repo": "vault-secrets-operator",
+            "stars": 685
+          }
+        }
+      ],
+      "title": "Secrets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Managing Helm releases the GitOps way",
+          "description": "Flux and Helm Operator tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-08T11:09:21Z",
+            "owner": "fluxcd",
+            "repo": "flux2-kustomize-helm-example",
+            "stars": 1289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automating Istio canary deployments with GitOps",
+          "description": "Progressive Delivery tutorial with Flagger, Flux, Helm Operator and Istio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-19T09:04:02Z",
+            "owner": "stefanprodan",
+            "repo": "gitops-istio",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Managing a multi-tenant cluster with GitOps",
+          "description": "Flux and Kustomize tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-08T14:40:30Z",
+            "owner": "fluxcd",
+            "repo": "flux2-multi-tenancy",
+            "stars": 604
+          }
+        }
+      ],
+      "title": "Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:28:44.926Z",
+    "original_repository": "weaveworks/awesome-gitops",
+    "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
+    "enhanced_repository": "enhansome/enhansome-gitops",
+    "enhanced_repository_description": null,
+    "title": "Awesome-GitOps with stars"
+  }
+}
