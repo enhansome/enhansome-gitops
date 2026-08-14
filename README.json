@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T10:21:21Z",
+            "last_commit": "2026-08-14T08:20:50Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23914
+            "stars": 23920
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-09T02:21:32Z",
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8328
+            "stars": 8335
           }
         },
         {
@@ -100,7 +100,7 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-12T23:29:45Z",
+            "last_commit": "2026-08-13T23:31:23Z",
             "owner": "weaveworks",
             "repo": "weave-gitops",
             "stars": 1126
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-10T11:27:27Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22791
+            "stars": 22800
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-11T08:13:49Z",
             "owner": "bitnami",
             "repo": "sealed-secrets",
-            "stars": 9239
+            "stars": 9245
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-05-08T14:40:30Z",
             "owner": "fluxcd",
             "repo": "flux2-multi-tenancy",
-            "stars": 604
+            "stars": 605
           }
         }
       ],
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:28:44.926Z",
+    "last_updated": "2026-08-14T10:17:40.706Z",
     "original_repository": "weaveworks/awesome-gitops",
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
     "enhanced_repository": "enhansome/enhansome-gitops",
