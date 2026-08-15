@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T08:20:50Z",
+            "last_commit": "2026-08-15T01:32:54Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23920
+            "stars": 23926
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-09T02:21:32Z",
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8335
+            "stars": 8334
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-11T14:00:22Z",
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5387
+            "stars": 5388
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-02-25T19:51:46Z",
             "owner": "konstructio",
             "repo": "kubefirst",
-            "stars": 2055
+            "stars": 2056
           }
         },
         {
@@ -100,7 +100,7 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-13T23:31:23Z",
+            "last_commit": "2026-08-14T23:12:13Z",
             "owner": "weaveworks",
             "repo": "weave-gitops",
             "stars": 1126
@@ -131,7 +131,7 @@
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 540
+            "stars": 558
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-10T11:27:27Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22800
+            "stars": 22813
           }
         },
         {
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:17:40.706Z",
+    "last_updated": "2026-08-15T09:42:29.638Z",
     "original_repository": "weaveworks/awesome-gitops",
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
     "enhanced_repository": "enhansome/enhansome-gitops",
