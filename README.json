@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "GitOps is a way to do Kubernetes cluster management and application delivery. It works by using Git as a single source of truth for declarative infrastructure and applications, together with tools ensuring the actual state of infrastructure and applications converges towards the desired state declared in Git. With Git at the center of your delivery pipelines, developers can make pull requests to accelerate and simplify application deployments and operations tasks to your infrastructure or container-orchestration system (e.g. Kubernetes).",
-      "items": [],
-      "title": "What is GitOps?"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-18T09:21:29Z",
+            "last_commit": "2026-08-18T12:29:56Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23941
+            "stars": 23954
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258469100,
             "language": "Go",
             "last_commit": "2026-08-09T02:21:32Z",
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8343
+            "stars": 8354
           }
         },
         {
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149515625,
             "language": "Go",
             "last_commit": "2026-08-17T11:28:31Z",
             "owner": "fluxcd",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 179326472,
             "language": "Go",
             "last_commit": "2023-12-07T17:28:58Z",
             "owner": "weaveworks",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332999480,
             "language": "Go",
             "last_commit": "2026-02-25T19:51:46Z",
             "owner": "konstructio",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80561803,
             "language": "Python",
             "last_commit": "2026-08-03T16:35:55Z",
             "owner": "Sceptre",
@@ -99,8 +100,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342592099,
             "language": "MDX",
-            "last_commit": "2026-08-17T23:13:01Z",
+            "last_commit": "2026-08-18T23:12:40Z",
             "owner": "weaveworks",
             "repo": "weave-gitops",
             "stars": 1126
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 199482477,
             "language": "Go",
             "last_commit": "2022-11-01T15:19:40Z",
             "owner": "fluxcd",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013641879,
             "language": "Ruby",
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 312559801,
             "language": "Go",
             "last_commit": "2025-01-22T06:47:09Z",
             "owner": "gimlet-io",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99350930,
             "language": "JavaScript",
             "last_commit": "2025-11-14T14:56:48Z",
             "owner": "autoapply",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 144018016,
             "language": "Go",
             "last_commit": "2021-09-27T23:46:42Z",
             "owner": "pusher",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427605796,
             "language": "Rust",
             "last_commit": "2026-07-21T03:14:41Z",
             "owner": "duyet",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 952498003,
             "language": "Shell",
             "last_commit": "2025-12-14T19:48:25Z",
             "owner": "oguzhan-yilmaz",
@@ -208,88 +217,95 @@
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SOPS",
+              "description": "Secrets OPerationS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40684033,
+                "language": "Go",
+                "last_commit": "2026-08-17T17:56:38Z",
+                "owner": "getsops",
+                "repo": "sops",
+                "stars": 22857
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sealed Secrets",
+              "description": "One-way encrypted Secrets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92702519,
+                "language": "Go",
+                "last_commit": "2026-08-19T08:00:32Z",
+                "owner": "bitnami",
+                "repo": "sealed-secrets",
+                "stars": 9251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-secret",
+              "description": "A bash-tool to store your private data inside a git repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51747445,
+                "language": "Shell",
+                "last_commit": "2026-08-11T14:12:25Z",
+                "owner": "sobolevn",
+                "repo": "git-secret",
+                "stars": 4036
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kamus",
+              "description": "Zero-trust secret encryption/decryption solution for Kubernetes applications",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 137323485,
+                "language": "C#",
+                "last_commit": "2026-03-25T17:43:22Z",
+                "owner": "Soluto",
+                "repo": "kamus",
+                "stars": 935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vault Secrets Operator",
+              "description": "Sync secrets from Vault with Kubernetes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204312226,
+                "language": "Go",
+                "last_commit": "2026-08-13T04:43:55Z",
+                "owner": "ricoberger",
+                "repo": "vault-secrets-operator",
+                "stars": 685
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Secrets"
+        }
+      ],
       "title": "Ancillary Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SOPS",
-          "description": "Secrets OPerationS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T17:56:38Z",
-            "owner": "getsops",
-            "repo": "sops",
-            "stars": 22846
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sealed Secrets",
-          "description": "One-way encrypted Secrets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:44:19Z",
-            "owner": "bitnami",
-            "repo": "sealed-secrets",
-            "stars": 9250
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "git-secret",
-          "description": "A bash-tool to store your private data inside a git repository",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-11T14:12:25Z",
-            "owner": "sobolevn",
-            "repo": "git-secret",
-            "stars": 4036
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kamus",
-          "description": "Zero-trust secret encryption/decryption solution for Kubernetes applications",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2026-03-25T17:43:22Z",
-            "owner": "Soluto",
-            "repo": "kamus",
-            "stars": 935
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vault Secrets Operator",
-          "description": "Sync secrets from Vault with Kubernetes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T04:43:55Z",
-            "owner": "ricoberger",
-            "repo": "vault-secrets-operator",
-            "stars": 685
-          }
-        }
-      ],
-      "title": "Secrets"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -298,6 +314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310316550,
             "language": "Shell",
             "last_commit": "2026-07-08T11:09:21Z",
             "owner": "fluxcd",
@@ -312,6 +329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131903780,
             "language": null,
             "last_commit": "2026-05-19T09:04:02Z",
             "owner": "stefanprodan",
@@ -326,6 +344,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316442097,
             "language": null,
             "last_commit": "2026-05-08T14:40:30Z",
             "owner": "fluxcd",
@@ -338,7 +357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:49:13.298Z",
+    "last_updated": "2026-08-19T09:50:14.881Z",
     "original_repository": "weaveworks/awesome-gitops",
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
     "enhanced_repository": "enhansome/enhansome-gitops",
