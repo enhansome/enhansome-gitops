@@ -12,10 +12,10 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-18T12:29:56Z",
+            "last_commit": "2026-08-19T12:06:54Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23954
+            "stars": 23953
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-12-07T17:28:58Z",
             "owner": "weaveworks",
             "repo": "ignite",
-            "stars": 3528
+            "stars": 3529
           }
         },
         {
@@ -245,10 +245,10 @@
                 "archived": false,
                 "id": 92702519,
                 "language": "Go",
-                "last_commit": "2026-08-19T08:00:32Z",
+                "last_commit": "2026-08-19T10:51:48Z",
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9251
+                "stars": 9250
               }
             },
             {
@@ -357,8 +357,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:50:14.881Z",
+    "last_updated": "2026-08-19T12:29:33.221Z",
     "original_repository": "weaveworks/awesome-gitops",
+    "original_repository_id": 194877784,
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
     "enhanced_repository": "enhansome/enhansome-gitops",
     "enhanced_repository_description": null,

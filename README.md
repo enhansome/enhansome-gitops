@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 497,592 | 🐛 102 | 📅 2026-08-18
+A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
 
 We follow this [code of conduct](CODE-OF-CONDUCT.md).
 
@@ -46,7 +46,7 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ## Tools
 
-* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 23,954 | 🐛 4,377 | 🌐 Go | 📅 2026-08-18 - Declarative continuous deployment for Kubernetes
+* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 23,953 | 🐛 4,379 | 🌐 Go | 📅 2026-08-19 - Declarative continuous deployment for Kubernetes
 * [Flux](https://github.com/fluxcd/flux2) ⭐ 8,354 | 🐛 250 | 🌐 Go | 📅 2026-08-09 - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
 * [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,390 | 🐛 383 | 🌐 Go | 📅 2026-08-17 - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 * [Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived - A Virtual Machine manager with a container UX and built-in GitOps
@@ -78,7 +78,7 @@ Modern software development practices *assume* support for reviewing changes, tr
 ### Secrets
 
 * [SOPS](https://github.com/mozilla/sops) ⭐ 22,857 | 🐛 439 | 🌐 Go | 📅 2026-08-17 - Secrets OPerationS
-* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,251 | 🐛 71 | 🌐 Go | 📅 2026-08-19 - One-way encrypted Secrets
+* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,250 | 🐛 70 | 🌐 Go | 📅 2026-08-19 - One-way encrypted Secrets
 * [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,036 | 🐛 251 | 🌐 Shell | 📅 2026-08-11 - A bash-tool to store your private data inside a git repository
 * [Kamus](https://github.com/Soluto/kamus) ⚠️ Archived - Zero-trust secret encryption/decryption solution for Kubernetes applications
 * [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) ⭐ 685 | 🐛 15 | 🌐 Go | 📅 2026-08-13 - Sync secrets from Vault with Kubernetes
