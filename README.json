@@ -12,10 +12,10 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-24T09:51:21Z",
+            "last_commit": "2026-08-24T13:57:02Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23981
+            "stars": 23982
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 149515625,
             "language": "Go",
-            "last_commit": "2026-08-17T11:28:31Z",
+            "last_commit": "2026-08-24T11:28:14Z",
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5393
+            "stars": 5394
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-02-25T19:51:46Z",
             "owner": "konstructio",
             "repo": "kubefirst",
-            "stars": 2056
+            "stars": 2057
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-23T23:11:23Z",
             "owner": "weaveworks",
             "repo": "weave-gitops",
-            "stars": 1127
+            "stars": 1128
           }
         },
         {
@@ -223,6 +223,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Fluxcloud",
+              "description": "Slack notifications for Flux without Weave Cloud",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263698745,
+                "language": "Go",
+                "last_commit": "2022-05-10T21:30:39Z",
+                "owner": "topfreegames",
+                "repo": "fluxcloud",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Notifications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SOPS",
               "description": "Secrets OPerationS",
               "children": [],
@@ -233,7 +255,7 @@
                 "last_commit": "2026-08-24T09:19:35Z",
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22904
+                "stars": 22906
               }
             },
             {
@@ -357,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:05:05.257Z",
+    "last_updated": "2026-08-24T14:07:22.800Z",
     "original_repository": "weaveworks/awesome-gitops",
     "original_repository_id": 194877784,
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
