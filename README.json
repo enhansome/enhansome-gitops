@@ -12,10 +12,10 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-23T07:28:02Z",
+            "last_commit": "2026-08-24T09:51:21Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23975
+            "stars": 23981
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-09T02:21:32Z",
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8363
+            "stars": 8367
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 342592099,
             "language": "MDX",
-            "last_commit": "2026-08-22T23:11:04Z",
+            "last_commit": "2026-08-23T23:11:23Z",
             "owner": "weaveworks",
             "repo": "weave-gitops",
-            "stars": 1126
+            "stars": 1127
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 578
+            "stars": 579
           }
         },
         {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 40684033,
                 "language": "Go",
-                "last_commit": "2026-08-17T17:56:38Z",
+                "last_commit": "2026-08-24T09:19:35Z",
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22898
+                "stars": 22904
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-20T08:57:38Z",
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9256
+                "stars": 9257
               }
             },
             {
@@ -319,7 +319,7 @@
             "last_commit": "2026-07-08T11:09:21Z",
             "owner": "fluxcd",
             "repo": "flux2-kustomize-helm-example",
-            "stars": 1292
+            "stars": 1293
           }
         },
         {
@@ -357,7 +357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:44:15.077Z",
+    "last_updated": "2026-08-24T10:05:05.257Z",
     "original_repository": "weaveworks/awesome-gitops",
     "original_repository_id": 194877784,
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
