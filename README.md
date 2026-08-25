@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 499,701 | 🐛 106 | 📅 2026-08-21
+A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 499,744 | 🐛 106 | 📅 2026-08-21
 
 We follow this [code of conduct](CODE-OF-CONDUCT.md).
 
@@ -46,9 +46,9 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ## Tools
 
-* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 23,988 | 🐛 4,396 | 🌐 Go | 📅 2026-08-25 - Declarative continuous deployment for Kubernetes
-* [Flux](https://github.com/fluxcd/flux2) ⭐ 8,369 | 🐛 251 | 🌐 Go | 📅 2026-08-09 - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
-* [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,394 | 🐛 386 | 🌐 Go | 📅 2026-08-24 - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
+* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 23,990 | 🐛 4,397 | 🌐 Go | 📅 2026-08-25 - Declarative continuous deployment for Kubernetes
+* [Flux](https://github.com/fluxcd/flux2) ⭐ 8,370 | 🐛 251 | 🌐 Go | 📅 2026-08-09 - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
+* [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,395 | 🐛 387 | 🌐 Go | 📅 2026-08-24 - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 * [Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived - A Virtual Machine manager with a container UX and built-in GitOps
 * [Kubefirst](https://github.com/kubefirst/kubefirst) ⭐ 2,057 | 🐛 289 | 🌐 Go | 📅 2026-02-25 - Fully-automated OSS delivery & infrastructure management gitops platforms
 * [Sceptre](https://github.com/Sceptre/sceptre) ⭐ 1,533 | 🐛 26 | 🌐 Python | 📅 2026-08-03 - Sceptre is a tool to drive AWS CloudFormation as part of a CI/CD pipeline by using Hooks
@@ -77,7 +77,7 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ### Secrets
 
-* [SOPS](https://github.com/mozilla/sops) ⭐ 22,913 | 🐛 443 | 🌐 Go | 📅 2026-08-24 - Secrets OPerationS
+* [SOPS](https://github.com/mozilla/sops) ⭐ 22,915 | 🐛 443 | 🌐 Go | 📅 2026-08-24 - Secrets OPerationS
 * [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,256 | 🐛 69 | 🌐 Go | 📅 2026-08-20 - One-way encrypted Secrets
 * [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,038 | 🐛 152 | 🌐 Shell | 📅 2026-08-24 - A bash-tool to store your private data inside a git repository
 * [Kamus](https://github.com/Soluto/kamus) ⚠️ Archived - Zero-trust secret encryption/decryption solution for Kubernetes applications

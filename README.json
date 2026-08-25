@@ -12,10 +12,10 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-25T05:56:46Z",
+            "last_commit": "2026-08-25T08:57:59Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23988
+            "stars": 23990
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-09T02:21:32Z",
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8369
+            "stars": 8370
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T11:28:14Z",
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5394
+            "stars": 5395
           }
         },
         {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-24T19:04:41Z",
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22913
+                "stars": 22915
               }
             },
             {
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:32.333Z",
+    "last_updated": "2026-08-25T09:52:22.807Z",
     "original_repository": "weaveworks/awesome-gitops",
     "original_repository_id": 194877784,
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
