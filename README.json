@@ -12,10 +12,10 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-25T08:57:59Z",
+            "last_commit": "2026-08-26T08:18:03Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23990
+            "stars": 23998
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 258469100,
             "language": "Go",
-            "last_commit": "2026-08-09T02:21:32Z",
+            "last_commit": "2026-08-25T16:22:30Z",
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8370
+            "stars": 8372
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 342592099,
             "language": "MDX",
-            "last_commit": "2026-08-24T23:13:57Z",
+            "last_commit": "2026-08-25T23:16:30Z",
             "owner": "weaveworks",
             "repo": "weave-gitops",
             "stars": 1128
@@ -165,7 +165,7 @@
             "last_commit": "2025-11-14T14:56:48Z",
             "owner": "autoapply",
             "repo": "autoapply",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-24T19:04:41Z",
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22915
+                "stars": 22925
               }
             },
             {
@@ -267,7 +267,7 @@
                 "archived": false,
                 "id": 92702519,
                 "language": "Go",
-                "last_commit": "2026-08-20T08:57:38Z",
+                "last_commit": "2026-08-25T20:42:51Z",
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
                 "stars": 9256
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:52:22.807Z",
+    "last_updated": "2026-08-26T09:58:40.773Z",
     "original_repository": "weaveworks/awesome-gitops",
     "original_repository_id": 194877784,
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
