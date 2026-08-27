@@ -12,10 +12,10 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-26T08:18:03Z",
+            "last_commit": "2026-08-27T09:58:38Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23998
+            "stars": 24006
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 342592099,
             "language": "MDX",
-            "last_commit": "2026-08-25T23:16:30Z",
+            "last_commit": "2026-08-27T04:09:01Z",
             "owner": "weaveworks",
             "repo": "weave-gitops",
-            "stars": 1128
+            "stars": 1129
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 579
+            "stars": 580
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-01-22T06:47:09Z",
             "owner": "gimlet-io",
             "repo": "gimlet",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -252,10 +252,10 @@
                 "archived": false,
                 "id": 40684033,
                 "language": "Go",
-                "last_commit": "2026-08-24T19:04:41Z",
+                "last_commit": "2026-08-26T19:19:37Z",
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22925
+                "stars": 22936
               }
             },
             {
@@ -267,10 +267,10 @@
                 "archived": false,
                 "id": 92702519,
                 "language": "Go",
-                "last_commit": "2026-08-25T20:42:51Z",
+                "last_commit": "2026-08-27T08:03:16Z",
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9256
+                "stars": 9257
               }
             },
             {
@@ -379,9 +379,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:58:40.773Z",
-    "original_repository": "weaveworks/awesome-gitops",
-    "original_repository_id": 194877784,
+    "last_updated": "2026-08-27T11:41:39.738Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 194877784,
+      "language": null,
+      "last_commit": "2025-12-10T07:29:20Z",
+      "owner": "weaveworks",
+      "repo": "awesome-gitops",
+      "stars": 1709
+    },
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
     "enhanced_repository": "enhansome/enhansome-gitops",
     "enhanced_repository_description": null,
