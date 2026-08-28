@@ -12,11 +12,12 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-27T18:34:48Z",
+            "last_commit": "2026-08-28T13:15:09Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24011
-          }
+            "stars": 24027
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-25T16:22:30Z",
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8373
-          }
+            "stars": 8374
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-24T11:28:14Z",
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5395
-          }
+            "stars": 5396
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "weaveworks",
             "repo": "ignite",
             "stars": 3529
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "konstructio",
             "repo": "kubefirst",
             "stars": 2057
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Sceptre",
             "repo": "sceptre",
             "stars": 1533
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 342592099,
             "language": "MDX",
-            "last_commit": "2026-08-27T04:09:01Z",
+            "last_commit": "2026-08-28T06:26:17Z",
             "owner": "weaveworks",
             "repo": "weave-gitops",
             "stars": 1128
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "fluxcd",
             "repo": "helm-operator",
             "stars": 641
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
             "stars": 580
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "gimlet-io",
             "repo": "gimlet",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "autoapply",
             "repo": "autoapply",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "pusher",
             "repo": "faros",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "duyet",
             "repo": "grant-rs",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "oguzhan-yilmaz",
             "repo": "argocd-backup-s3",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         }
       ],
       "title": "Tools"
@@ -234,7 +248,8 @@
                 "owner": "topfreegames",
                 "repo": "fluxcloud",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T20:51:14.129Z"
             }
           ],
           "description": null,
@@ -255,8 +270,9 @@
                 "last_commit": "2026-08-26T19:19:37Z",
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22941
-              }
+                "stars": 22953
+              },
+              "first_seen": "2026-08-28T20:51:14.129Z"
             },
             {
               "node_type": "item",
@@ -267,11 +283,12 @@
                 "archived": false,
                 "id": 92702519,
                 "language": "Go",
-                "last_commit": "2026-08-27T12:23:10Z",
+                "last_commit": "2026-08-27T19:57:36Z",
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9260
-              }
+                "stars": 9262
+              },
+              "first_seen": "2026-08-28T20:51:14.129Z"
             },
             {
               "node_type": "item",
@@ -285,8 +302,9 @@
                 "last_commit": "2026-08-24T18:21:41Z",
                 "owner": "sobolevn",
                 "repo": "git-secret",
-                "stars": 4038
-              }
+                "stars": 4040
+              },
+              "first_seen": "2026-08-28T20:51:14.129Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "Soluto",
                 "repo": "kamus",
                 "stars": 935
-              }
+              },
+              "first_seen": "2026-08-28T20:51:14.129Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "ricoberger",
                 "repo": "vault-secrets-operator",
                 "stars": 685
-              }
+              },
+              "first_seen": "2026-08-28T20:51:14.129Z"
             }
           ],
           "description": null,
@@ -342,7 +362,8 @@
             "owner": "fluxcd",
             "repo": "flux2-kustomize-helm-example",
             "stars": 1295
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -357,7 +378,8 @@
             "owner": "stefanprodan",
             "repo": "gitops-istio",
             "stars": 670
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         },
         {
           "node_type": "item",
@@ -372,14 +394,15 @@
             "owner": "fluxcd",
             "repo": "flux2-multi-tenancy",
             "stars": 605
-          }
+          },
+          "first_seen": "2026-08-28T20:51:14.129Z"
         }
       ],
       "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:51:37.067Z",
+    "last_updated": "2026-08-28T20:51:14.129Z",
     "original_repository_info": {
       "archived": false,
       "id": 194877784,
@@ -387,7 +410,7 @@
       "last_commit": "2025-12-10T07:29:20Z",
       "owner": "weaveworks",
       "repo": "awesome-gitops",
-      "stars": 1709
+      "stars": 1711
     },
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
     "enhanced_repository": "enhansome/enhansome-gitops",
