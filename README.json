@@ -10,12 +10,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative Continuous Deployment for Kubernetes",
+            "homepage": "https://argo-cd.readthedocs.io",
             "id": 120896210,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:15:09Z",
+            "open_issues": 4412,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24027
+            "stars": 24030,
+            "topics": [
+              "argo",
+              "argo-cd",
+              "cd",
+              "ci-cd",
+              "cicd",
+              "continuous-delivery",
+              "continuous-deployment",
+              "devops",
+              "docker",
+              "gitops",
+              "hacktoberfest",
+              "helm",
+              "jsonnet",
+              "kubernetes",
+              "kustomize",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -26,12 +48,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+            "homepage": "https://fluxcd.io",
             "id": 258469100,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T16:22:30Z",
+            "open_issues": 254,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8374
+            "stars": 8375,
+            "topics": [
+              "continuous-delivery",
+              "gitops",
+              "gitops-toolkit",
+              "helm",
+              "kubernetes",
+              "kustomize"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -42,12 +76,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
+            "homepage": "https://docs.flagger.app/main",
             "id": 149515625,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T11:28:14Z",
+            "open_issues": 387,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5396
+            "stars": 5396,
+            "topics": [
+              "ab-testing",
+              "aws-appmesh",
+              "canary",
+              "contour",
+              "gitops",
+              "gloo",
+              "istio",
+              "kubernetes",
+              "linkerd",
+              "nginx",
+              "progressive-delivery"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -58,12 +109,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ignite a Firecracker microVM",
+            "homepage": "https://ignite.readthedocs.org",
             "id": 179326472,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-07T17:28:58Z",
+            "open_issues": 171,
             "owner": "weaveworks",
             "repo": "ignite",
-            "stars": 3529
+            "stars": 3529,
+            "topics": [
+              "cloud-native",
+              "containers",
+              "docker",
+              "firecracker",
+              "kvm",
+              "oci"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -74,12 +137,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Kubefirst Open Source Platform",
+            "homepage": "https://docs.konstruct.io",
             "id": 332999480,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-25T19:51:46Z",
+            "open_issues": 289,
             "owner": "konstructio",
             "repo": "kubefirst",
-            "stars": 2057
+            "stars": 2057,
+            "topics": [
+              "argocd",
+              "atlantis",
+              "aws",
+              "datadog",
+              "external-dns",
+              "external-secrets-operator",
+              "gitlab",
+              "gitops",
+              "hacktoberfest",
+              "ingress-nginx",
+              "kubernetes",
+              "platform",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -90,12 +172,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build better AWS infrastructure",
+            "homepage": "https://docs.sceptre-project.org",
             "id": 80561803,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T16:35:55Z",
+            "open_issues": 26,
             "owner": "Sceptre",
             "repo": "sceptre",
-            "stars": 1533
+            "stars": 1533,
+            "topics": [
+              "aws",
+              "cloud",
+              "cloudformation",
+              "devops",
+              "infrastructure",
+              "python",
+              "sceptre"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -106,12 +201,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weave GitOps is transitioning to a community driven project! It provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your teams.",
+            "homepage": "https://docs.gitops.weaveworks.org/",
             "id": 342592099,
             "language": "MDX",
-            "last_commit": "2026-08-28T06:26:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:58:20Z",
+            "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
-            "stars": 1128
+            "stars": 1128,
+            "topics": [
+              "cloudnative",
+              "flux",
+              "flux2",
+              "gitops",
+              "k8s",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -122,12 +229,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Successor: https://github.com/fluxcd/helm-controller — The Flux Helm Operator, once upon a time a solution for declarative Helming.",
+            "homepage": "https://docs.fluxcd.io/projects/helm-operator/",
             "id": 199482477,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-01T15:19:40Z",
+            "open_issues": 0,
             "owner": "fluxcd",
             "repo": "helm-operator",
-            "stars": 641
+            "stars": 641,
+            "topics": [
+              "gitops",
+              "helm",
+              "legacy"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -138,12 +254,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.",
+            "homepage": "http://demo.gitops.pm",
             "id": 1013641879,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-18T10:41:41Z",
+            "open_issues": 1,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 580
+            "stars": 580,
+            "topics": [
+              "automation",
+              "container",
+              "devops",
+              "gitops",
+              "iac",
+              "lxc",
+              "proxmox",
+              "pve"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -154,12 +284,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.",
+            "homepage": "https://gimlet.io",
             "id": 312559801,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-22T06:47:09Z",
+            "open_issues": 26,
             "owner": "gimlet-io",
             "repo": "gimlet",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "devops",
+              "flux",
+              "gimlet",
+              "gitops",
+              "idp",
+              "k8s",
+              "kubernetes",
+              "paltform-engineering"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -170,12 +314,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically apply changes to a Kubernetes cluster",
+            "homepage": null,
             "id": 99350930,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-14T14:56:48Z",
+            "open_issues": 12,
             "owner": "autoapply",
             "repo": "autoapply",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "gitops",
+              "kubernetes",
+              "kubernetes-deployment"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -186,12 +339,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Faros is a CRD based GitOps controller",
+            "homepage": null,
             "id": 144018016,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-27T23:46:42Z",
+            "open_issues": 29,
             "owner": "pusher",
             "repo": "faros",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "cloud-infrastructure",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -202,12 +363,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage Redshift/Postgres privileges in GitOps style written in Rust",
+            "homepage": "https://duyet.github.io/grant-rs/grant/index.html",
             "id": 427605796,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-21T03:14:41Z",
+            "open_issues": 15,
             "owner": "duyet",
             "repo": "grant-rs",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "data-engineering",
+              "data-ops",
+              "gitops",
+              "hacktoberfest",
+              "postgres",
+              "redshift",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -218,12 +392,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes CronJob to backup ArgoCD with `argocd admin export` cmd and upload to S3 compatible storage ",
+            "homepage": "https://artifacthub.io/packages/helm/argocd-backup-s3/argocd-backup-s3",
             "id": 952498003,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-14T19:48:25Z",
+            "open_issues": 0,
             "owner": "oguzhan-yilmaz",
             "repo": "argocd-backup-s3",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "argocd",
+              "argocd-application",
+              "argocd-backup",
+              "artifacthub",
+              "aws-s3",
+              "backup",
+              "backup-utility",
+              "helm-chart",
+              "kubernetes",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         }
@@ -242,12 +432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slack notifications for Weave Flux without Weave Cloud",
+                "homepage": null,
                 "id": 263698745,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-10T21:30:39Z",
+                "open_issues": 6,
                 "owner": "topfreegames",
                 "repo": "fluxcloud",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:51:14.129Z"
             }
@@ -265,12 +460,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and flexible tool for managing secrets",
+                "homepage": "https://getsops.io",
                 "id": 40684033,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-26T19:19:37Z",
+                "open_issues": 443,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22953
+                "stars": 22955,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "devops",
+                  "gcp",
+                  "pgp",
+                  "secret-distribution",
+                  "secret-management",
+                  "security",
+                  "sops"
+                ]
               },
               "first_seen": "2026-08-28T20:51:14.129Z"
             },
@@ -281,12 +491,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
+                "homepage": null,
                 "id": 92702519,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T19:57:36Z",
+                "open_issues": 67,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9262
+                "stars": 9262,
+                "topics": [
+                  "devops-workflow",
+                  "encrypt-secrets",
+                  "gitops",
+                  "kubernetes",
+                  "kubernetes-secrets"
+                ]
               },
               "first_seen": "2026-08-28T20:51:14.129Z"
             },
@@ -297,12 +518,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":busts_in_silhouette: A bash-tool to store your private data inside a git repository.",
+                "homepage": "https://sobolevn.me/git-secret/",
                 "id": 51747445,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-24T18:21:41Z",
+                "open_issues": 153,
                 "owner": "sobolevn",
                 "repo": "git-secret",
-                "stars": 4040
+                "stars": 4040,
+                "topics": [
+                  "encryption",
+                  "git",
+                  "git-addons",
+                  "git-secret",
+                  "gpg",
+                  "secret-management"
+                ]
               },
               "first_seen": "2026-08-28T20:51:14.129Z"
             },
@@ -313,12 +546,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications",
+                "homepage": "https://kamus.soluto.io",
                 "id": 137323485,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-25T17:43:22Z",
+                "open_issues": 0,
                 "owner": "Soluto",
                 "repo": "kamus",
-                "stars": 935
+                "stars": 935,
+                "topics": [
+                  "devops",
+                  "gitops",
+                  "kms",
+                  "kubernetes",
+                  "kubernetes-secrets"
+                ]
               },
               "first_seen": "2026-08-28T20:51:14.129Z"
             },
@@ -329,12 +573,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create Kubernetes secrets from Vault for a secure GitOps based workflow.",
+                "homepage": null,
                 "id": 204312226,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-13T04:43:55Z",
+                "open_issues": 15,
                 "owner": "ricoberger",
                 "repo": "vault-secrets-operator",
-                "stars": 685
+                "stars": 685,
+                "topics": [
+                  "crd",
+                  "gitops",
+                  "helm-chart",
+                  "kubernetes",
+                  "kubernetes-secrets",
+                  "operator-sdk",
+                  "secret",
+                  "secrets",
+                  "vault"
+                ]
               },
               "first_seen": "2026-08-28T20:51:14.129Z"
             }
@@ -356,12 +615,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.",
+            "homepage": "https://fluxcd.io",
             "id": 310316550,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-08T11:09:21Z",
+            "open_issues": 0,
             "owner": "fluxcd",
             "repo": "flux2-kustomize-helm-example",
-            "stars": 1295
+            "stars": 1295,
+            "topics": [
+              "example",
+              "flux2",
+              "fluxcd",
+              "gitops",
+              "helm",
+              "kubernetes",
+              "kustomize"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -372,12 +644,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitOps recipe for Progressive Delivery with Flux v2, Flagger and Istio",
+            "homepage": "https://flagger.app",
             "id": 131903780,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-19T09:04:02Z",
+            "open_issues": 3,
             "owner": "stefanprodan",
             "repo": "gitops-istio",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "ab-testing",
+              "flagger",
+              "flux",
+              "gitops",
+              "istio",
+              "kubernetes",
+              "progressive-delivery"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         },
@@ -388,12 +673,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage multi-tenant clusters with Flux",
+            "homepage": "https://fluxcd.io/flux/installation/configuration/multitenancy/",
             "id": 316442097,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-08T14:40:30Z",
+            "open_issues": 6,
             "owner": "fluxcd",
             "repo": "flux2-multi-tenancy",
-            "stars": 605
+            "stars": 605,
+            "topics": [
+              "example",
+              "flux2",
+              "fluxcd",
+              "gitops",
+              "kubernetes",
+              "multitenancy"
+            ]
           },
           "first_seen": "2026-08-28T20:51:14.129Z"
         }
@@ -402,15 +699,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:51:14.129Z",
+    "last_updated": "2026-08-29T04:28:38.947Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list for awesome GitOps resources",
+      "homepage": null,
       "id": 194877784,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-12-10T07:29:20Z",
+      "open_issues": 11,
       "owner": "weaveworks",
       "repo": "awesome-gitops",
-      "stars": 1711
+      "stars": 1711,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "82af5b15f445d1cec081ee3435c156283fe1c0b1",
     "enhanced_repository": "enhansome/enhansome-gitops",
