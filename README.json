@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:15:09Z",
-            "open_issues": 4412,
+            "open_issues": 4414,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24030,
+            "stars": 24032,
             "topics": [
               "argo",
               "argo-cd",
@@ -466,10 +466,10 @@
                 "language": "Go",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-26T19:19:37Z",
-                "open_issues": 443,
+                "open_issues": 444,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22955,
+                "stars": 22959,
                 "topics": [
                   "aws",
                   "azure",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:38.947Z",
+    "last_updated": "2026-08-29T14:29:41.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",

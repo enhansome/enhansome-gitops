@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
+A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 501,027 | 🐛 105 | 📅 2026-08-21
 
 We follow this [code of conduct](CODE-OF-CONDUCT.md).
 
@@ -46,7 +46,7 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ## Tools
 
-* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 24,030 | 🐛 4,412 | 🌐 Go | 📅 2026-08-28 - Declarative continuous deployment for Kubernetes
+* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 24,032 | 🐛 4,414 | 🌐 Go | 📅 2026-08-28 - Declarative continuous deployment for Kubernetes
 * [Flux](https://github.com/fluxcd/flux2) ⭐ 8,375 | 🐛 254 | 🌐 Go | 📅 2026-08-25 - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
 * [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,396 | 🐛 387 | 🌐 Go | 📅 2026-08-24 - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 * [Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived - A Virtual Machine manager with a container UX and built-in GitOps
@@ -77,7 +77,7 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ### Secrets
 
-* [SOPS](https://github.com/mozilla/sops) ⭐ 22,955 | 🐛 443 | 🌐 Go | 📅 2026-08-26 - Secrets OPerationS
+* [SOPS](https://github.com/mozilla/sops) ⭐ 22,959 | 🐛 444 | 🌐 Go | 📅 2026-08-26 - Secrets OPerationS
 * [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,262 | 🐛 67 | 🌐 Go | 📅 2026-08-27 - One-way encrypted Secrets
 * [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,040 | 🐛 153 | 🌐 Shell | 📅 2026-08-24 - A bash-tool to store your private data inside a git repository
 * [Kamus](https://github.com/Soluto/kamus) ⚠️ Archived - Zero-trust secret encryption/decryption solution for Kubernetes applications
