@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T13:15:09Z",
-            "open_issues": 4414,
+            "last_commit": "2026-08-30T00:47:06Z",
+            "open_issues": 4421,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24032,
+            "stars": 24037,
             "topics": [
               "argo",
               "argo-cd",
@@ -57,7 +57,7 @@
             "open_issues": 254,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8375,
+            "stars": 8376,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:58:20Z",
+            "last_commit": "2026-08-30T00:54:33Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 444,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22959,
+                "stars": 22965,
                 "topics": [
                   "aws",
                   "azure",
@@ -500,7 +500,7 @@
                 "open_issues": 67,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9262,
+                "stars": 9263,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:29:41.300Z",
+    "last_updated": "2026-08-30T14:25:35.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
