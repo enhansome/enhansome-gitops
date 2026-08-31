@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 501,336 | 🐛 105 | 📅 2026-08-21
+A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 501,644 | 🐛 105 | 📅 2026-08-21
 
 We follow this [code of conduct](CODE-OF-CONDUCT.md).
 
@@ -46,15 +46,15 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ## Tools
 
-* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 24,037 | 🐛 4,421 | 🌐 Go | 📅 2026-08-30 - Declarative continuous deployment for Kubernetes
-* [Flux](https://github.com/fluxcd/flux2) ⭐ 8,376 | 🐛 254 | 🌐 Go | 📅 2026-08-25 - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
-* [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,396 | 🐛 387 | 🌐 Go | 📅 2026-08-24 - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
+* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 24,045 | 🐛 4,429 | 🌐 Go | 📅 2026-08-31 - Declarative continuous deployment for Kubernetes
+* [Flux](https://github.com/fluxcd/flux2) ⭐ 8,376 | 🐛 256 | 🌐 Go | 📅 2026-08-31 - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
+* [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,396 | 🐛 387 | 🌐 Go | 📅 2026-08-31 - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 * [Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived - A Virtual Machine manager with a container UX and built-in GitOps
 * [Kubefirst](https://github.com/kubefirst/kubefirst) ⭐ 2,057 | 🐛 289 | 🌐 Go | 📅 2026-02-25 - Fully-automated OSS delivery & infrastructure management gitops platforms
 * [Sceptre](https://github.com/Sceptre/sceptre) ⭐ 1,533 | 🐛 26 | 🌐 Python | 📅 2026-08-03 - Sceptre is a tool to drive AWS CloudFormation as part of a CI/CD pipeline by using Hooks
-* [Weave GitOps OSS](https://github.com/weaveworks/weave-gitops) ⭐ 1,128 | 🐛 162 | 🌐 MDX | 📅 2026-08-30 - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
+* [Weave GitOps OSS](https://github.com/weaveworks/weave-gitops) ⭐ 1,128 | 🐛 162 | 🌐 MDX | 📅 2026-08-31 - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
 * [Helm Operator](https://github.com/fluxcd/helm-operator) ⚠️ Archived - Automates Helm Chart releases in a GitOps manner
-* [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) ⭐ 580 | 🐛 1 | 🌐 Ruby | 📅 2026-07-18 - Self-contained GitOps framework for LXC-based container automation on Proxmox VE.
+* [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) ⭐ 579 | 🐛 0 | 🌐 Ruby | 📅 2026-08-30 - Self-contained GitOps framework for LXC-based container automation on Proxmox VE.
 * [Gimlet](https://github.com/gimlet-io/gimlet) ⚠️ Archived - The Flux-based Internal Developer Platform
 * [Autoapply](https://github.com/autoapply/autoapply) ⭐ 158 | 🐛 12 | 🌐 JavaScript | 📅 2025-11-14 - Automatically apply changes from a Git repository to a Kubernetes cluster
 * [Faros](https://github.com/pusher/faros) ⚠️ Archived - CRD based GitOps controller
@@ -77,8 +77,8 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ### Secrets
 
-* [SOPS](https://github.com/mozilla/sops) ⭐ 22,965 | 🐛 444 | 🌐 Go | 📅 2026-08-26 - Secrets OPerationS
-* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,263 | 🐛 67 | 🌐 Go | 📅 2026-08-27 - One-way encrypted Secrets
+* [SOPS](https://github.com/mozilla/sops) ⭐ 22,976 | 🐛 442 | 🌐 Go | 📅 2026-08-31 - Secrets OPerationS
+* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,268 | 🐛 67 | 🌐 Go | 📅 2026-08-27 - One-way encrypted Secrets
 * [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,040 | 🐛 153 | 🌐 Shell | 📅 2026-08-24 - A bash-tool to store your private data inside a git repository
 * [Kamus](https://github.com/Soluto/kamus) ⚠️ Archived - Zero-trust secret encryption/decryption solution for Kubernetes applications
 * [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) ⭐ 685 | 🐛 15 | 🌐 Go | 📅 2026-08-13 - Sync secrets from Vault with Kubernetes
@@ -86,7 +86,7 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ## Tutorials
 
-* [Managing Helm releases the GitOps way](https://github.com/fluxcd/flux2-kustomize-helm-example) ⭐ 1,295 | 🐛 0 | 🌐 Shell | 📅 2026-07-08 - Flux and Helm Operator tutorial
+* [Managing Helm releases the GitOps way](https://github.com/fluxcd/flux2-kustomize-helm-example) ⭐ 1,296 | 🐛 0 | 🌐 Shell | 📅 2026-07-08 - Flux and Helm Operator tutorial
 * [Automating Istio canary deployments with GitOps](https://github.com/stefanprodan/gitops-istio) ⭐ 670 | 🐛 3 | 📅 2026-05-19 - Progressive Delivery tutorial with Flagger, Flux, Helm Operator and Istio
 * [Managing a multi-tenant cluster with GitOps](https://github.com/fluxcd/flux2-multi-tenancy) ⭐ 605 | 🐛 6 | 📅 2026-05-08 - Flux and Kustomize tutorial
 * [GitOps-style continuous delivery with Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build) - Google Cloud Build tutorial
@@ -99,4 +99,4 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
