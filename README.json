@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T13:09:41Z",
-            "open_issues": 4386,
+            "last_commit": "2026-09-05T06:59:54Z",
+            "open_issues": 4348,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24077,
+            "stars": 24079,
             "topics": [
               "argo",
               "argo-cd",
@@ -57,7 +57,7 @@
             "open_issues": 256,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8383,
+            "stars": 8384,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T00:31:38Z",
+            "last_commit": "2026-09-05T00:28:41Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -263,7 +263,7 @@
             "open_issues": 0,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 581,
+            "stars": 582,
             "topics": [
               "automation",
               "container",
@@ -466,10 +466,10 @@
                 "language": "Go",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-02T04:41:35Z",
-                "open_issues": 442,
+                "open_issues": 443,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23023,
+                "stars": 23028,
                 "topics": [
                   "aws",
                   "azure",
@@ -527,7 +527,7 @@
                 "open_issues": 153,
                 "owner": "sobolevn",
                 "repo": "git-secret",
-                "stars": 4041,
+                "stars": 4042,
                 "topics": [
                   "encryption",
                   "git",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:32:54.019Z",
+    "last_updated": "2026-09-05T12:44:26.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
