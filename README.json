@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T13:26:16Z",
-            "open_issues": 4358,
+            "last_commit": "2026-09-09T12:46:55Z",
+            "open_issues": 4366,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24108,
+            "stars": 24115,
             "topics": [
               "argo",
               "argo-cd",
@@ -57,7 +57,7 @@
             "open_issues": 258,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8386,
+            "stars": 8387,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -81,7 +81,7 @@
             "id": 149515625,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T11:26:47Z",
+            "last_commit": "2026-09-08T22:59:21Z",
             "open_issues": 388,
             "owner": "fluxcd",
             "repo": "flagger",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T00:48:06Z",
+            "last_commit": "2026-09-09T00:51:10Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 445,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23058,
+                "stars": 23066,
                 "topics": [
                   "aws",
                   "azure",
@@ -496,11 +496,11 @@
                 "id": 92702519,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T10:05:51Z",
+                "last_commit": "2026-09-09T12:46:29Z",
                 "open_issues": 68,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9278,
+                "stars": 9280,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:39:17.635Z",
+    "last_updated": "2026-09-09T13:44:44.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
