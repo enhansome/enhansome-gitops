@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T05:50:23Z",
-            "open_issues": 4358,
+            "last_commit": "2026-09-13T11:36:07Z",
+            "open_issues": 4361,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24141,
+            "stars": 24149,
             "topics": [
               "argo",
               "argo-cd",
@@ -53,11 +53,11 @@
             "id": 258469100,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T22:40:55Z",
+            "last_commit": "2026-09-13T09:06:51Z",
             "open_issues": 259,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8395,
+            "stars": 8398,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T00:47:16Z",
+            "last_commit": "2026-09-13T00:30:07Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 446,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23093,
+                "stars": 23102,
                 "topics": [
                   "aws",
                   "azure",
@@ -682,7 +682,7 @@
             "open_issues": 6,
             "owner": "fluxcd",
             "repo": "flux2-multi-tenancy",
-            "stars": 605,
+            "stars": 606,
             "topics": [
               "example",
               "flux2",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:52:16.897Z",
+    "last_updated": "2026-09-13T13:48:33.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
@@ -708,7 +708,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-12-10T07:29:20Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "weaveworks",
       "repo": "awesome-gitops",
       "stars": 1717,
