@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T10:16:39Z",
-            "open_issues": 4363,
+            "last_commit": "2026-09-19T11:48:06Z",
+            "open_issues": 4358,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24179,
+            "stars": 24193,
             "topics": [
               "argo",
               "argo-cd",
@@ -57,7 +57,7 @@
             "open_issues": 257,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8411,
+            "stars": 8415,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -85,7 +85,7 @@
             "open_issues": 389,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5407,
+            "stars": 5410,
             "topics": [
               "ab-testing",
               "aws-appmesh",
@@ -118,7 +118,7 @@
             "open_issues": 171,
             "owner": "weaveworks",
             "repo": "ignite",
-            "stars": 3530,
+            "stars": 3529,
             "topics": [
               "cloud-native",
               "containers",
@@ -146,7 +146,7 @@
             "open_issues": 289,
             "owner": "konstructio",
             "repo": "kubefirst",
-            "stars": 2058,
+            "stars": 2059,
             "topics": [
               "argocd",
               "atlantis",
@@ -206,11 +206,11 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T00:54:02Z",
+            "last_commit": "2026-09-19T00:46:51Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
-            "stars": 1131,
+            "stars": 1132,
             "topics": [
               "cloudnative",
               "flux",
@@ -238,7 +238,7 @@
             "open_issues": 0,
             "owner": "fluxcd",
             "repo": "helm-operator",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "gitops",
               "helm",
@@ -263,7 +263,7 @@
             "open_issues": 1,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "automation",
               "container",
@@ -293,7 +293,7 @@
             "open_issues": 26,
             "owner": "gimlet-io",
             "repo": "gimlet",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "devops",
               "flux",
@@ -469,7 +469,7 @@
                 "open_issues": 447,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23151,
+                "stars": 23159,
                 "topics": [
                   "aws",
                   "azure",
@@ -500,7 +500,7 @@
                 "open_issues": 65,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9281,
+                "stars": 9284,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -555,7 +555,7 @@
                 "open_issues": 0,
                 "owner": "Soluto",
                 "repo": "kamus",
-                "stars": 935,
+                "stars": 936,
                 "topics": [
                   "devops",
                   "gitops",
@@ -582,7 +582,7 @@
                 "open_issues": 18,
                 "owner": "ricoberger",
                 "repo": "vault-secrets-operator",
-                "stars": 685,
+                "stars": 686,
                 "topics": [
                   "crd",
                   "gitops",
@@ -624,7 +624,7 @@
             "open_issues": 0,
             "owner": "fluxcd",
             "repo": "flux2-kustomize-helm-example",
-            "stars": 1297,
+            "stars": 1298,
             "topics": [
               "example",
               "flux2",
@@ -653,7 +653,7 @@
             "open_issues": 3,
             "owner": "stefanprodan",
             "repo": "gitops-istio",
-            "stars": 670,
+            "stars": 671,
             "topics": [
               "ab-testing",
               "flagger",
@@ -682,7 +682,7 @@
             "open_issues": 6,
             "owner": "fluxcd",
             "repo": "flux2-multi-tenancy",
-            "stars": 606,
+            "stars": 607,
             "topics": [
               "example",
               "flux2",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:37:02.157Z",
+    "last_updated": "2026-09-19T13:10:56.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
@@ -711,7 +711,7 @@
       "open_issues": 12,
       "owner": "weaveworks",
       "repo": "awesome-gitops",
-      "stars": 1728,
+      "stars": 1729,
       "topics": [
         "awesome",
         "awesome-list"
