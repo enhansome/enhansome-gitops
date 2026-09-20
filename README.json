@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T11:48:06Z",
-            "open_issues": 4358,
+            "last_commit": "2026-09-20T06:01:23Z",
+            "open_issues": 4361,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24193,
+            "stars": 24203,
             "topics": [
               "argo",
               "argo-cd",
@@ -57,7 +57,7 @@
             "open_issues": 257,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8415,
+            "stars": 8417,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -85,7 +85,7 @@
             "open_issues": 389,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5410,
+            "stars": 5411,
             "topics": [
               "ab-testing",
               "aws-appmesh",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T00:46:51Z",
+            "last_commit": "2026-09-20T00:30:09Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 447,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23159,
+                "stars": 23166,
                 "topics": [
                   "aws",
                   "azure",
@@ -500,7 +500,7 @@
                 "open_issues": 65,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9284,
+                "stars": 9285,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -527,7 +527,7 @@
                 "open_issues": 153,
                 "owner": "sobolevn",
                 "repo": "git-secret",
-                "stars": 4044,
+                "stars": 4045,
                 "topics": [
                   "encryption",
                   "git",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:10:56.627Z",
+    "last_updated": "2026-09-20T13:35:24.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
