@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T06:18:11Z",
-            "open_issues": 4361,
+            "last_commit": "2026-09-23T13:28:00Z",
+            "open_issues": 4367,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24217,
+            "stars": 24224,
             "topics": [
               "argo",
               "argo-cd",
@@ -57,7 +57,7 @@
             "open_issues": 257,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8419,
+            "stars": 8422,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -82,10 +82,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T11:27:44Z",
-            "open_issues": 389,
+            "open_issues": 392,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5411,
+            "stars": 5413,
             "topics": [
               "ab-testing",
               "aws-appmesh",
@@ -206,11 +206,11 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T01:21:41Z",
+            "last_commit": "2026-09-23T01:03:06Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
-            "stars": 1132,
+            "stars": 1131,
             "topics": [
               "cloudnative",
               "flux",
@@ -469,7 +469,7 @@
                 "open_issues": 448,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23186,
+                "stars": 23194,
                 "topics": [
                   "aws",
                   "azure",
@@ -496,7 +496,7 @@
                 "id": 92702519,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T10:40:12Z",
+                "last_commit": "2026-09-23T07:45:20Z",
                 "open_issues": 66,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:02:40.786Z",
+    "last_updated": "2026-09-23T14:14:49.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
@@ -711,7 +711,7 @@
       "open_issues": 12,
       "owner": "weaveworks",
       "repo": "awesome-gitops",
-      "stars": 1730,
+      "stars": 1731,
       "topics": [
         "awesome",
         "awesome-list"
