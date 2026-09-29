@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T14:58:16Z",
-            "open_issues": 4377,
+            "last_commit": "2026-09-29T15:48:54Z",
+            "open_issues": 4380,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24267,
+            "stars": 24280,
             "topics": [
               "argo",
               "argo-cd",
@@ -85,7 +85,7 @@
             "open_issues": 393,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5414,
+            "stars": 5415,
             "topics": [
               "ab-testing",
               "aws-appmesh",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T01:18:09Z",
+            "last_commit": "2026-09-29T02:24:01Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -466,10 +466,10 @@
                 "language": "Go",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-28T09:15:10Z",
-                "open_issues": 449,
+                "open_issues": 450,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23237,
+                "stars": 23249,
                 "topics": [
                   "aws",
                   "azure",
@@ -500,7 +500,7 @@
                 "open_issues": 66,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9293,
+                "stars": 9294,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -527,7 +527,7 @@
                 "open_issues": 153,
                 "owner": "sobolevn",
                 "repo": "git-secret",
-                "stars": 4048,
+                "stars": 4049,
                 "topics": [
                   "encryption",
                   "git",
@@ -582,7 +582,7 @@
                 "open_issues": 18,
                 "owner": "ricoberger",
                 "repo": "vault-secrets-operator",
-                "stars": 686,
+                "stars": 687,
                 "topics": [
                   "crd",
                   "gitops",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:39:56.083Z",
+    "last_updated": "2026-09-29T15:53:18.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
