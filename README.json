@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T15:24:39Z",
-            "open_issues": 4386,
+            "last_commit": "2026-10-02T15:50:16Z",
+            "open_issues": 4390,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24303,
+            "stars": 24317,
             "topics": [
               "argo",
               "argo-cd",
@@ -53,11 +53,11 @@
             "id": 258469100,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T09:49:39Z",
-            "open_issues": 260,
+            "last_commit": "2026-10-02T14:06:28Z",
+            "open_issues": 256,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8435,
+            "stars": 8434,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -82,10 +82,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T11:27:44Z",
-            "open_issues": 394,
+            "open_issues": 395,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5415,
+            "stars": 5417,
             "topics": [
               "ab-testing",
               "aws-appmesh",
@@ -181,7 +181,7 @@
             "open_issues": 25,
             "owner": "Sceptre",
             "repo": "sceptre",
-            "stars": 1532,
+            "stars": 1533,
             "topics": [
               "aws",
               "cloud",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T01:41:10Z",
+            "last_commit": "2026-10-02T01:53:06Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 450,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23263,
+                "stars": 23275,
                 "topics": [
                   "aws",
                   "azure",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:27:43.100Z",
+    "last_updated": "2026-10-02T15:50:30.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
