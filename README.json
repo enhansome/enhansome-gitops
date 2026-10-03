@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T20:53:01Z",
-            "open_issues": 4395,
+            "last_commit": "2026-10-03T13:38:36Z",
+            "open_issues": 4403,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24319,
+            "stars": 24322,
             "topics": [
               "argo",
               "argo-cd",
@@ -469,7 +469,7 @@
                 "open_issues": 450,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23276,
+                "stars": 23280,
                 "topics": [
                   "aws",
                   "azure",
@@ -500,7 +500,7 @@
                 "open_issues": 66,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9295,
+                "stars": 9296,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -527,7 +527,7 @@
                 "open_issues": 153,
                 "owner": "sobolevn",
                 "repo": "git-secret",
-                "stars": 4049,
+                "stars": 4048,
                 "topics": [
                   "encryption",
                   "git",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:46:15.267Z",
+    "last_updated": "2026-10-03T14:19:31.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",

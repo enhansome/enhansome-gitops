@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 513,796 | 🐛 106 | 📅 2026-09-02
+A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 513,945 | 🐛 106 | 📅 2026-09-02
 
 We follow this [code of conduct](CODE-OF-CONDUCT.md).
 
@@ -46,7 +46,7 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ## Tools
 
-* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 24,319 | 🐛 4,395 | 🌐 Go | 📅 2026-10-02 - Declarative continuous deployment for Kubernetes
+* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 24,322 | 🐛 4,403 | 🌐 Go | 📅 2026-10-03 - Declarative continuous deployment for Kubernetes
 * [Flux](https://github.com/fluxcd/flux2) ⭐ 8,435 | 🐛 256 | 🌐 Go | 📅 2026-10-02 - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
 * [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,416 | 🐛 395 | 🌐 Go | 📅 2026-09-21 - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 * [Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived - A Virtual Machine manager with a container UX and built-in GitOps
@@ -77,9 +77,9 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ### Secrets
 
-* [SOPS](https://github.com/mozilla/sops) ⭐ 23,276 | 🐛 450 | 🌐 Go | 📅 2026-09-28 - Secrets OPerationS
-* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,295 | 🐛 66 | 🌐 Go | 📅 2026-10-01 - One-way encrypted Secrets
-* [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,049 | 🐛 153 | 🌐 Shell | 📅 2026-09-28 - A bash-tool to store your private data inside a git repository
+* [SOPS](https://github.com/mozilla/sops) ⭐ 23,280 | 🐛 450 | 🌐 Go | 📅 2026-09-28 - Secrets OPerationS
+* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,296 | 🐛 66 | 🌐 Go | 📅 2026-10-01 - One-way encrypted Secrets
+* [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,048 | 🐛 153 | 🌐 Shell | 📅 2026-09-28 - A bash-tool to store your private data inside a git repository
 * [Kamus](https://github.com/Soluto/kamus) ⚠️ Archived - Zero-trust secret encryption/decryption solution for Kubernetes applications
 * [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) ⭐ 687 | 🐛 18 | 🌐 Go | 📅 2026-10-01 - Sync secrets from Vault with Kubernetes
 * [argocd-vault-plugin](https://argocd-vault-plugin.readthedocs.io/en/stable/) - An ArgoCD plugin to retrieve secrets from Vault and inject them into Kubernetes resources
