@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T15:50:16Z",
-            "open_issues": 4390,
+            "last_commit": "2026-10-02T20:53:01Z",
+            "open_issues": 4395,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24317,
+            "stars": 24319,
             "topics": [
               "argo",
               "argo-cd",
@@ -53,11 +53,11 @@
             "id": 258469100,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:06:28Z",
+            "last_commit": "2026-10-02T17:32:59Z",
             "open_issues": 256,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8434,
+            "stars": 8435,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -85,7 +85,7 @@
             "open_issues": 395,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5417,
+            "stars": 5416,
             "topics": [
               "ab-testing",
               "aws-appmesh",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T01:53:06Z",
+            "last_commit": "2026-10-03T01:33:29Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -238,7 +238,7 @@
             "open_issues": 0,
             "owner": "fluxcd",
             "repo": "helm-operator",
-            "stars": 640,
+            "stars": 638,
             "topics": [
               "gitops",
               "helm",
@@ -469,7 +469,7 @@
                 "open_issues": 450,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23275,
+                "stars": 23276,
                 "topics": [
                   "aws",
                   "azure",
@@ -624,7 +624,7 @@
             "open_issues": 0,
             "owner": "fluxcd",
             "repo": "flux2-kustomize-helm-example",
-            "stars": 1300,
+            "stars": 1299,
             "topics": [
               "example",
               "flux2",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:50:30.678Z",
+    "last_updated": "2026-10-03T04:46:15.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
