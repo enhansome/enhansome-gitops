@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:11:00Z",
-            "open_issues": 4431,
+            "last_commit": "2026-10-06T12:51:29Z",
+            "open_issues": 4428,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24336,
+            "stars": 24337,
             "topics": [
               "argo",
               "argo-cd",
@@ -53,11 +53,11 @@
             "id": 258469100,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T11:55:25Z",
-            "open_issues": 256,
+            "last_commit": "2026-10-06T11:40:29Z",
+            "open_issues": 255,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8438,
+            "stars": 8439,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 452,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23304,
+                "stars": 23309,
                 "topics": [
                   "aws",
                   "azure",
@@ -527,7 +527,7 @@
                 "open_issues": 153,
                 "owner": "sobolevn",
                 "repo": "git-secret",
-                "stars": 4047,
+                "stars": 4048,
                 "topics": [
                   "encryption",
                   "git",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:21.672Z",
+    "last_updated": "2026-10-06T15:58:07.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
