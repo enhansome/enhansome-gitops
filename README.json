@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T13:19:53Z",
-            "open_issues": 4422,
+            "last_commit": "2026-10-06T10:11:00Z",
+            "open_issues": 4431,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24331,
+            "stars": 24336,
             "topics": [
               "argo",
               "argo-cd",
@@ -54,10 +54,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T11:55:25Z",
-            "open_issues": 257,
+            "open_issues": 256,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8436,
+            "stars": 8438,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -85,7 +85,7 @@
             "open_issues": 395,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5417,
+            "stars": 5418,
             "topics": [
               "ab-testing",
               "aws-appmesh",
@@ -146,7 +146,7 @@
             "open_issues": 289,
             "owner": "konstructio",
             "repo": "kubefirst",
-            "stars": 2059,
+            "stars": 2060,
             "topics": [
               "argocd",
               "atlantis",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T01:23:47Z",
+            "last_commit": "2026-10-06T02:35:50Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 452,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23301,
+                "stars": 23304,
                 "topics": [
                   "aws",
                   "azure",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:29:27.199Z",
+    "last_updated": "2026-10-06T10:29:21.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
