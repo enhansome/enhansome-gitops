@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T12:51:29Z",
-            "open_issues": 4428,
+            "last_commit": "2026-10-07T15:41:45Z",
+            "open_issues": 4401,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24337,
+            "stars": 24347,
             "topics": [
               "argo",
               "argo-cd",
@@ -54,10 +54,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T11:40:29Z",
-            "open_issues": 255,
+            "open_issues": 256,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8439,
+            "stars": 8441,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T02:35:50Z",
+            "last_commit": "2026-10-07T01:54:05Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 452,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23309,
+                "stars": 23329,
                 "topics": [
                   "aws",
                   "azure",
@@ -500,7 +500,7 @@
                 "open_issues": 66,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9298,
+                "stars": 9299,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -527,7 +527,7 @@
                 "open_issues": 153,
                 "owner": "sobolevn",
                 "repo": "git-secret",
-                "stars": 4048,
+                "stars": 4055,
                 "topics": [
                   "encryption",
                   "git",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:58:07.701Z",
+    "last_updated": "2026-10-07T16:30:32.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
@@ -711,7 +711,7 @@
       "open_issues": 12,
       "owner": "weaveworks",
       "repo": "awesome-gitops",
-      "stars": 1731,
+      "stars": 1730,
       "topics": [
         "awesome",
         "awesome-list"
