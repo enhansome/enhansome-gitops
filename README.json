@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T14:08:29Z",
-            "open_issues": 4424,
+            "last_commit": "2026-10-16T13:36:28Z",
+            "open_issues": 4423,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24408,
+            "stars": 24416,
             "topics": [
               "argo",
               "argo-cd",
@@ -54,7 +54,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T21:02:04Z",
-            "open_issues": 257,
+            "open_issues": 258,
             "owner": "fluxcd",
             "repo": "flux2",
             "stars": 8444,
@@ -118,7 +118,7 @@
             "open_issues": 171,
             "owner": "weaveworks",
             "repo": "ignite",
-            "stars": 3531,
+            "stars": 3532,
             "topics": [
               "cloud-native",
               "containers",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T01:05:19Z",
+            "last_commit": "2026-10-16T00:53:58Z",
             "open_issues": 162,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 457,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23398,
+                "stars": 23412,
                 "topics": [
                   "aws",
                   "azure",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T14:10:40.957Z",
+    "last_updated": "2026-10-16T13:58:34.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
