@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T09:22:36Z",
-            "open_issues": 4451,
+            "last_commit": "2026-10-24T11:59:11Z",
+            "open_issues": 4461,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24454,
+            "stars": 24460,
             "topics": [
               "argo",
               "argo-cd",
@@ -53,8 +53,8 @@
             "id": 258469100,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T10:21:35Z",
-            "open_issues": 242,
+            "last_commit": "2026-10-24T12:50:38Z",
+            "open_issues": 245,
             "owner": "fluxcd",
             "repo": "flux2",
             "stars": 8461,
@@ -85,7 +85,7 @@
             "open_issues": 408,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5421,
+            "stars": 5420,
             "topics": [
               "ab-testing",
               "aws-appmesh",
@@ -118,7 +118,7 @@
             "open_issues": 171,
             "owner": "weaveworks",
             "repo": "ignite",
-            "stars": 3531,
+            "stars": 3530,
             "topics": [
               "cloud-native",
               "containers",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T01:06:01Z",
+            "last_commit": "2026-10-24T01:15:13Z",
             "open_issues": 161,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -238,7 +238,7 @@
             "open_issues": 0,
             "owner": "fluxcd",
             "repo": "helm-operator",
-            "stars": 638,
+            "stars": 637,
             "topics": [
               "gitops",
               "helm",
@@ -259,8 +259,8 @@
             "id": 1013641879,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-18T16:54:10Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-24T10:39:54Z",
+            "open_issues": 2,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
             "stars": 596,
@@ -466,10 +466,10 @@
                 "language": "Go",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-20T04:34:01Z",
-                "open_issues": 463,
+                "open_issues": 464,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23489,
+                "stars": 23493,
                 "topics": [
                   "aws",
                   "azure",
@@ -500,7 +500,7 @@
                 "open_issues": 63,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9316,
+                "stars": 9318,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -555,7 +555,7 @@
                 "open_issues": 0,
                 "owner": "Soluto",
                 "repo": "kamus",
-                "stars": 936,
+                "stars": 935,
                 "topics": [
                   "devops",
                   "gitops",
@@ -582,7 +582,7 @@
                 "open_issues": 20,
                 "owner": "ricoberger",
                 "repo": "vault-secrets-operator",
-                "stars": 687,
+                "stars": 686,
                 "topics": [
                   "crd",
                   "gitops",
@@ -682,7 +682,7 @@
             "open_issues": 6,
             "owner": "fluxcd",
             "repo": "flux2-multi-tenancy",
-            "stars": 607,
+            "stars": 608,
             "topics": [
               "example",
               "flux2",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:15:08.227Z",
+    "last_updated": "2026-10-24T13:20:42.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
@@ -711,7 +711,7 @@
       "open_issues": 12,
       "owner": "weaveworks",
       "repo": "awesome-gitops",
-      "stars": 1732,
+      "stars": 1730,
       "topics": [
         "awesome",
         "awesome-list"
