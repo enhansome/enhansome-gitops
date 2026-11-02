@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 528,354 | 🐛 105 | 📅 2026-09-02
+A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome) ⭐ 529,577 | 🐛 104 | 📅 2026-09-02
 
 We follow this [code of conduct](CODE-OF-CONDUCT.md).
 
@@ -46,13 +46,13 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ## Tools
 
-* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 24,508 | 🐛 4,435 | 🌐 Go | 📅 2026-11-01 - Declarative continuous deployment for Kubernetes
-* [Flux](https://github.com/fluxcd/flux2) ⭐ 8,490 | 🐛 246 | 🌐 Go | 📅 2026-11-01 - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
-* [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,426 | 🐛 413 | 🌐 Go | 📅 2026-09-21 - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
+* [ArgoCD](https://github.com/argoproj/argo-cd) ⭐ 24,517 | 🐛 4,432 | 🌐 Go | 📅 2026-11-02 - Declarative continuous deployment for Kubernetes
+* [Flux](https://github.com/fluxcd/flux2) ⭐ 8,490 | 🐛 247 | 🌐 Go | 📅 2026-11-01 - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
+* [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,427 | 🐛 413 | 🌐 Go | 📅 2026-09-21 - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 * [Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived - A Virtual Machine manager with a container UX and built-in GitOps
 * [Kubefirst](https://github.com/kubefirst/kubefirst) ⭐ 2,063 | 🐛 289 | 🌐 Go | 📅 2026-02-25 - Fully-automated OSS delivery & infrastructure management gitops platforms
-* [Sceptre](https://github.com/Sceptre/sceptre) ⭐ 1,533 | 🐛 26 | 🌐 Python | 📅 2026-10-19 - Sceptre is a tool to drive AWS CloudFormation as part of a CI/CD pipeline by using Hooks
-* [Weave GitOps OSS](https://github.com/weaveworks/weave-gitops) ⭐ 1,133 | 🐛 161 | 🌐 MDX | 📅 2026-11-01 - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
+* [Sceptre](https://github.com/Sceptre/sceptre) ⭐ 1,533 | 🐛 29 | 🌐 Python | 📅 2026-11-02 - Sceptre is a tool to drive AWS CloudFormation as part of a CI/CD pipeline by using Hooks
+* [Weave GitOps OSS](https://github.com/weaveworks/weave-gitops) ⭐ 1,133 | 🐛 161 | 🌐 MDX | 📅 2026-11-02 - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
 * [Helm Operator](https://github.com/fluxcd/helm-operator) ⚠️ Archived - Automates Helm Chart releases in a GitOps manner
 * [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) ⭐ 597 | 🐛 2 | 🌐 Ruby | 📅 2026-10-24 - Self-contained GitOps framework for LXC-based container automation on Proxmox VE.
 * [Gimlet](https://github.com/gimlet-io/gimlet) ⚠️ Archived - The Flux-based Internal Developer Platform
@@ -77,11 +77,11 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ### Secrets
 
-* [SOPS](https://github.com/mozilla/sops) ⭐ 23,580 | 🐛 467 | 🌐 Go | 📅 2026-10-27 - Secrets OPerationS
-* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,327 | 🐛 67 | 🌐 Go | 📅 2026-10-30 - One-way encrypted Secrets
-* [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,055 | 🐛 152 | 🌐 Shell | 📅 2026-09-28 - A bash-tool to store your private data inside a git repository
+* [SOPS](https://github.com/mozilla/sops) ⭐ 23,586 | 🐛 467 | 🌐 Go | 📅 2026-11-02 - Secrets OPerationS
+* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,328 | 🐛 67 | 🌐 Go | 📅 2026-10-30 - One-way encrypted Secrets
+* [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,056 | 🐛 152 | 🌐 Shell | 📅 2026-09-28 - A bash-tool to store your private data inside a git repository
 * [Kamus](https://github.com/Soluto/kamus) ⚠️ Archived - Zero-trust secret encryption/decryption solution for Kubernetes applications
-* [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) ⭐ 686 | 🐛 17 | 🌐 Go | 📅 2026-11-01 - Sync secrets from Vault with Kubernetes
+* [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) ⭐ 686 | 🐛 18 | 🌐 Go | 📅 2026-11-02 - Sync secrets from Vault with Kubernetes
 * [argocd-vault-plugin](https://argocd-vault-plugin.readthedocs.io/en/stable/) - An ArgoCD plugin to retrieve secrets from Vault and inject them into Kubernetes resources
 
 ## Tutorials
@@ -99,4 +99,4 @@ Modern software development practices *assume* support for reviewing changes, tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
