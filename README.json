@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T19:27:53Z",
-            "open_issues": 4432,
+            "last_commit": "2026-11-03T16:48:05Z",
+            "open_issues": 4417,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24517,
+            "stars": 24525,
             "topics": [
               "argo",
               "argo-cd",
@@ -53,11 +53,11 @@
             "id": 258469100,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T00:55:59Z",
+            "last_commit": "2026-11-03T01:12:07Z",
             "open_issues": 247,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8490,
+            "stars": 8494,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -82,10 +82,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T11:27:44Z",
-            "open_issues": 413,
+            "open_issues": 414,
             "owner": "fluxcd",
             "repo": "flagger",
-            "stars": 5427,
+            "stars": 5428,
             "topics": [
               "ab-testing",
               "aws-appmesh",
@@ -118,7 +118,7 @@
             "open_issues": 171,
             "owner": "weaveworks",
             "repo": "ignite",
-            "stars": 3529,
+            "stars": 3528,
             "topics": [
               "cloud-native",
               "containers",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T01:58:49Z",
+            "last_commit": "2026-11-03T03:46:59Z",
             "open_issues": 161,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -263,7 +263,7 @@
             "open_issues": 2,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 597,
+            "stars": 598,
             "topics": [
               "automation",
               "container",
@@ -465,11 +465,11 @@
                 "id": 40684033,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-02T09:16:16Z",
+                "last_commit": "2026-11-03T06:16:46Z",
                 "open_issues": 467,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23586,
+                "stars": 23597,
                 "topics": [
                   "aws",
                   "azure",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:30:12.439Z",
+    "last_updated": "2026-11-03T17:04:11.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
@@ -711,7 +711,7 @@
       "open_issues": 12,
       "owner": "weaveworks",
       "repo": "awesome-gitops",
-      "stars": 1732,
+      "stars": 1733,
       "topics": [
         "awesome",
         "awesome-list"
