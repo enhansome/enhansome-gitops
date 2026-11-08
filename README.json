@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T07:00:05Z",
-            "open_issues": 4451,
+            "last_commit": "2026-11-08T12:48:13Z",
+            "open_issues": 4459,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24564,
+            "stars": 24566,
             "topics": [
               "argo",
               "argo-cd",
@@ -54,10 +54,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T12:59:51Z",
-            "open_issues": 251,
+            "open_issues": 250,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8500,
+            "stars": 8502,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T02:27:17Z",
+            "last_commit": "2026-11-08T01:57:06Z",
             "open_issues": 161,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -469,7 +469,7 @@
                 "open_issues": 468,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23641,
+                "stars": 23651,
                 "topics": [
                   "aws",
                   "azure",
@@ -500,7 +500,7 @@
                 "open_issues": 76,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9335,
+                "stars": 9336,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:40:21.679Z",
+    "last_updated": "2026-11-08T15:58:57.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
