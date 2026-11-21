@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T16:51:58Z",
-            "open_issues": 4525,
+            "last_commit": "2026-11-20T21:07:03Z",
+            "open_issues": 4535,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24665,
+            "stars": 24669,
             "topics": [
               "argo",
               "argo-cd",
@@ -54,10 +54,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T12:59:57Z",
-            "open_issues": 244,
+            "open_issues": 246,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8538,
+            "stars": 8536,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T03:47:12Z",
+            "last_commit": "2026-11-21T03:38:21Z",
             "open_issues": 161,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -259,11 +259,11 @@
             "id": 1013641879,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-20T17:47:50Z",
+            "last_commit": "2026-11-20T19:16:38Z",
             "open_issues": 2,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 600,
+            "stars": 601,
             "topics": [
               "automation",
               "container",
@@ -469,7 +469,7 @@
                 "open_issues": 478,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23768,
+                "stars": 23775,
                 "topics": [
                   "aws",
                   "azure",
@@ -527,7 +527,7 @@
                 "open_issues": 152,
                 "owner": "sobolevn",
                 "repo": "git-secret",
-                "stars": 4059,
+                "stars": 4060,
                 "topics": [
                   "encryption",
                   "git",
@@ -582,7 +582,7 @@
                 "open_issues": 19,
                 "owner": "ricoberger",
                 "repo": "vault-secrets-operator",
-                "stars": 688,
+                "stars": 689,
                 "topics": [
                   "crd",
                   "gitops",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:49:37.744Z",
+    "last_updated": "2026-11-21T16:48:04.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
