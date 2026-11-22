@@ -15,11 +15,11 @@
             "id": 120896210,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T21:07:03Z",
-            "open_issues": 4535,
+            "last_commit": "2026-11-22T14:12:29Z",
+            "open_issues": 4542,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24669,
+            "stars": 24676,
             "topics": [
               "argo",
               "argo-cd",
@@ -54,10 +54,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T12:59:57Z",
-            "open_issues": 246,
+            "open_issues": 247,
             "owner": "fluxcd",
             "repo": "flux2",
-            "stars": 8536,
+            "stars": 8538,
             "topics": [
               "continuous-delivery",
               "gitops",
@@ -206,7 +206,7 @@
             "id": 342592099,
             "language": "MDX",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T03:38:21Z",
+            "last_commit": "2026-11-22T02:44:49Z",
             "open_issues": 161,
             "owner": "weaveworks",
             "repo": "weave-gitops",
@@ -466,10 +466,10 @@
                 "language": "Go",
                 "license": "MPL-2.0",
                 "last_commit": "2026-11-16T09:14:38Z",
-                "open_issues": 478,
+                "open_issues": 479,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23775,
+                "stars": 23797,
                 "topics": [
                   "aws",
                   "azure",
@@ -500,7 +500,7 @@
                 "open_issues": 78,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9352,
+                "stars": 9353,
                 "topics": [
                   "devops-workflow",
                   "encrypt-secrets",
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:48:04.416Z",
+    "last_updated": "2026-11-22T17:10:07.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for awesome GitOps resources",
